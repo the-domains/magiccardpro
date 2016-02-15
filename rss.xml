@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[MagicCardPro]]></title>
         <description><![CDATA[MagicCardPro]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/magiccardpro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 19:03:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 19:37:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/magiccardpro/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Welcome to the first MCP post hosted by The Grid!</p>]]></description>
-            <link>undefined33e472aa-3f24-4a79-a900-fc1d3d7440db/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/92875e64-8d82-4c76-bde0-510b0566120f.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/magiccardpro/33e472aa-3f24-4a79-a900-fc1d3d7440db/index.html</link>
             <guid isPermaLink="false">33e472aa-3f24-4a79-a900-fc1d3d7440db</guid>
-            <pubDate>Mon, 15 Feb 2016 19:03:52 GMT</pubDate>
+            <pubDate>Mon, 15 Feb 2016 19:37:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
